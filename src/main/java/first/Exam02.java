@@ -3,6 +3,7 @@ package first;
 /*
  *  문제 : 짝수와 홀수
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12937
+ *  Date : 2022-05-13
  * */
 
 public class Exam02 {
