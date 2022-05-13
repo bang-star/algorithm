@@ -5,7 +5,6 @@ package first;
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/82612
  * */
 
-
 public class Exam12 {
 
     // 원래 이용료는 price원
@@ -13,9 +12,10 @@ public class Exam12 {
     // 100원, 200, 300
 
     public static void main(String[] args) {
+        char ch = '\0';
         System.out.println(solution(3, 20, 4));
     }
-    
+
     public static long solution(int price, int money, int count) {
         long sum = 0;
         for(int i = 0; i<count; i++){
