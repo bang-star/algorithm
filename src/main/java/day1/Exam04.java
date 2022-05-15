@@ -4,6 +4,7 @@ package day1;
  *  문제 : 두 정수 사이의 합
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12912
  *  Date : 2022-05-13
+ *  Point : 2
  * */
 
 public class Exam04 {

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="239b0ab8-762a-4b50-adfc-bc0bdc1ff0d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam13.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="298Vz9Ag2U3wh7EPgPhYkMRuDDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../sparta_pretrack/sparta_java" />
+  </component>
+  <component name="RunManager" selected="Application.Exam12">
+    <configuration name="Exam09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Exam09" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Exam11" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Exam12" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Exam13" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Exam14" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exam12" />
+        <item itemvalue="Application.Exam14" />
+        <item itemvalue="Application.Exam13" />
+        <item itemvalue="Application.Exam11" />
+        <item itemvalue="Application.Exam09" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="239b0ab8-762a-4b50-adfc-bc0bdc1ff0d8" name="Changes" comment="" />
+      <created>1652494962162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652494962162</updated>
+      <workItem from="1652494964882" duration="17059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
