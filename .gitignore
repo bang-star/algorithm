@@ -1,61 +1,60 @@
-build.gradle
-gradlew
-gradlew.bat
-settings.gradle
-.gradle/7.1/gc.properties
-.gradle/7.1/dependencies-accessors/dependencies-accessors.lock
-.gradle/7.1/dependencies-accessors/gc.properties
-.gradle/7.1/executionHistory/executionHistory.bin
-.gradle/7.1/executionHistory/executionHistory.lock
-.gradle/7.1/fileChanges/last-build.bin
-.gradle/7.1/fileHashes/fileHashes.bin
-.gradle/7.1/fileHashes/fileHashes.lock
-.gradle/buildOutputCleanup/buildOutputCleanup.lock
-.gradle/buildOutputCleanup/cache.properties
-.gradle/buildOutputCleanup/outputFiles.bin
-.gradle/checksums/checksums.lock
-.gradle/vcs-1/gc.properties
-.idea/.gitignore
-.idea/compiler.xml
-.idea/gradle.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/runConfigurations.xml
-.idea/uiDesigner.xml
-.idea/vcs.xml
-build/classes/java/main/first/Exam01.class
-build/classes/java/main/first/Exam02.class
-build/classes/java/main/first/Exam03.class
-build/classes/java/main/first/Exam04.class
-build/classes/java/main/first/Exam05.class
-build/classes/java/main/first/Exam06.class
-build/classes/java/main/first/Exam07.class
-build/classes/java/main/first/Exam08.class
-build/classes/java/main/first/Exam09.class
-build/classes/java/main/first/Exam10.class
-build/classes/java/main/first/Exam11.class
-build/classes/java/main/first/Exam12.class
-build/tmp/compileJava/previous-compilation-data.bin
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
-.idea/workspace.xml
-build/classes/java/main/day1/Exam01.class
-build/classes/java/main/day1/Exam02.class
-build/classes/java/main/day1/Exam03.class
-build/classes/java/main/day1/Exam04.class
-build/classes/java/main/day1/Exam05.class
-build/classes/java/main/day1/Exam06.class
-build/classes/java/main/day1/Exam07.class
-build/classes/java/main/day1/Exam08.class
-build/classes/java/main/day1/Exam09.class
-build/classes/java/main/day1/Exam10.class
-build/classes/java/main/day1/Exam11.class
-build/classes/java/main/day1/Exam12.class
-build/classes/java/main/day2/Exam07.class
-build/classes/java/main/day2/Exam08.class
-build/classes/java/main/day2/Exam09.class
-build/classes/java/main/day2/Exam10.class
-build/classes/java/main/day2/Exam11.class
-build/classes/java/main/day2/Exam12.class
-build/classes/java/main/day2/Exam13.class
-build/classes/java/main/day2/Exam14.class
+
+# Created by https://www.toptal.com/developers/gitignore/api/java
+# Edit at https://www.toptal.com/developers/gitignore?templates=java
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# End of https://www.toptal.com/developers/gitignore/api/java
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/gradle
+# Edit at https://www.toptal.com/developers/gitignore?templates=gradle
+
+### Gradle ###
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Cache of project
+.gradletasknamecache
+
+# Eclipse Gradle plugin generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# End of https://www.toptal.com/developers/gitignore/api/gradle
