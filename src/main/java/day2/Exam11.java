@@ -18,7 +18,7 @@ public class Exam11 {
 
         long num = x;
         for (int i = 0; i<n;i++){
-            answer[i] = (long)num;
+            answer[i] = num;
             num += x;
         }
         return answer;
