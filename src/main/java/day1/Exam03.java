@@ -4,6 +4,7 @@ package day1;
  *  문제 : 가운데 글자 가져오기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12903
  *  Date : 2022-05-13
+ *  Point : 1
  * */
 
 public class Exam03 {

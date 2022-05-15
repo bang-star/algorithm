@@ -4,6 +4,7 @@ package day1;
  *  문제 : 직사각형 별찍기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12969
  *  Date : 2022-05-13
+ *  Point : 2
  * */
 
 import java.io.BufferedReader;
