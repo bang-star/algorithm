@@ -15,7 +15,7 @@ public class Exam08 {
     }
 
     public static double solution(int[] arr) {
-        // return (double) Arrays.stream(arr).average();
+
         return (double)IntStream.of(arr).sum() / arr.length;
     }
 }
