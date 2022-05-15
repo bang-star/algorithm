@@ -3,7 +3,8 @@ package first;
 /*
  *  문제 : 없는 숫자 더하기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/86051
- * Date : 2022-05-13
+ *  Date : 2022-05-13
+ *  Point : 1
  * */
 
 import java.util.Arrays;
