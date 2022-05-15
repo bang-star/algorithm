@@ -17,7 +17,6 @@ public class Exam13 {
     public static String solution0(int month, int day) {
         // 1. 캘린더 클래스를 이용하자.
         // 요일을 입력하여 캘린더에 있는 요일의 값을 출력하자.
-        // 성능이 안좋다..
         Calendar cal = new Calendar.Builder().setCalendarType("iso8601").setDate(2016, month - 1, day).build();         // 날짜를 생성
         return cal.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.SHORT, new Locale("ko-KR")).toUpperCase(Locale.ROOT);     // 짧게 요일을 대문자로 달라! 기준은 한국이다.
     }
