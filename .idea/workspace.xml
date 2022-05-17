@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="239b0ab8-762a-4b50-adfc-bc0bdc1ff0d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Exam05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Exam13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Exam14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Exam18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first/Exam06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +40,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../sparta_pretrack/sparta_java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/day4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Exam12">
-    <configuration name="Exam09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Exam09" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Self스터디\Spart Class\team_project\2_week\algorithm\src\main\java\day4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exam23">
+    <configuration name="Exam22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Exam22" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Exam11" />
+    <configuration name="Exam23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Exam23" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Exam12" />
+    <configuration name="Exam28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Exam28" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Exam13" />
+    <configuration name="Exam29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Exam29" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Exam14" />
+    <configuration name="Exam30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Exam30" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exam12" />
-        <item itemvalue="Application.Exam14" />
-        <item itemvalue="Application.Exam13" />
-        <item itemvalue="Application.Exam11" />
-        <item itemvalue="Application.Exam09" />
+        <item itemvalue="Application.Exam23" />
+        <item itemvalue="Application.Exam22" />
+        <item itemvalue="Application.Exam30" />
+        <item itemvalue="Application.Exam29" />
+        <item itemvalue="Application.Exam28" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +138,9 @@
       <option name="presentableId" value="Default" />
       <updated>1652494962162</updated>
       <workItem from="1652494964882" duration="17059000" />
+      <workItem from="1652712716966" duration="2061000" />
+      <workItem from="1652752194545" duration="18384000" />
+      <workItem from="1652801987564" duration="1286000" />
     </task>
     <servers />
   </component>
@@ -150,5 +157,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
