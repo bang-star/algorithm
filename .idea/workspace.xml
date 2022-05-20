@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="239b0ab8-762a-4b50-adfc-bc0bdc1ff0d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day6/Exam45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Exam14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Exam18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/first/Exam06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam45.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam44.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam43.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam31.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam39.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam48.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam47.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam38.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam46.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="298Vz9Ag2U3wh7EPgPhYkMRuDDA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,27 +58,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/day4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Self스터디\Spart Class\team_project\2_week\algorithm\src\main\java\day4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day6" />
+      <recent name="day5" />
       <recent name="day4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exam23">
-    <configuration name="Exam22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Exam22" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exam45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Exam45" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Exam23" />
+    <configuration name="Exam46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Exam46" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Exam28" />
+    <configuration name="Exam47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Exam47" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Exam29" />
+    <configuration name="Exam48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Exam48" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Exam30" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Main" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exam23" />
-        <item itemvalue="Application.Exam22" />
-        <item itemvalue="Application.Exam30" />
-        <item itemvalue="Application.Exam29" />
-        <item itemvalue="Application.Exam28" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exam48" />
+        <item itemvalue="Application.Exam47" />
+        <item itemvalue="Application.Exam46" />
+        <item itemvalue="Application.Exam45" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +163,15 @@
       <workItem from="1652494964882" duration="17059000" />
       <workItem from="1652712716966" duration="2061000" />
       <workItem from="1652752194545" duration="18384000" />
-      <workItem from="1652801987564" duration="1286000" />
+      <workItem from="1652801987564" duration="1932000" />
+      <workItem from="1652804860669" duration="1990000" />
+      <workItem from="1652840803230" duration="25700000" />
+      <workItem from="1652876420598" duration="212000" />
+      <workItem from="1652877415262" duration="2806000" />
+      <workItem from="1652923980193" duration="12455000" />
+      <workItem from="1652939968168" duration="1905000" />
+      <workItem from="1652947683578" duration="68000" />
+      <workItem from="1653021112891" duration="16000" />
     </task>
     <servers />
   </component>
