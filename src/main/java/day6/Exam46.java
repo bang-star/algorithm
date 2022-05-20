@@ -12,7 +12,7 @@ package day6;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-// 유클리드 호제법
+
 public class Exam46 {
     public static boolean prime[];
 
