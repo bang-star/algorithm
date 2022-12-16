@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 없는 숫자 더하기
@@ -8,7 +8,7 @@ package day1;
 
 import java.util.Arrays;
 
-public class Exam06 {
+public class 없는_숫자_더하기 {
     public static void main(String[] args) {
         int arr1[] = {1,2,3,4,6,7,8,0};
         int arr2[] = {5,8,4,0,6,7,9};

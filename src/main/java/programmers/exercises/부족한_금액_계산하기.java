@@ -1,15 +1,11 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 부족한 금액 계산하기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/82612
  * */
 
-public class Exam12 {
-
-    // 원래 이용료는 price원
-    // 놀이기구를 N 번 째 이용한다면 원래 이용료의 N배를 받기
-    // 100원, 200, 300
+public class 부족한_금액_계산하기 {
 
     public static void main(String[] args) {
         char ch = '\0';

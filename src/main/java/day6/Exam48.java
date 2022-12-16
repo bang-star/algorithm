@@ -10,9 +10,6 @@ package day6;
  * */
 
 
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class Exam48 {
 
     static class Rate{

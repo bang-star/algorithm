@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : x만큼 간격이 있는 n개의 숫자
@@ -6,7 +6,7 @@ package day1;
  * */
 
 
-public class Exam11 {
+public class x만큼_간격이_있는_n개의_숫자 {
     public static void main(String[] args) {
         System.out.println(solution(-4, 5));
         System.out.println(solution(-5, 10));

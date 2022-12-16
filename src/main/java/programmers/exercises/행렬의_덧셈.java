@@ -1,11 +1,11 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 행렬의 덧셈
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12950
  * */
 
-public class Exam10 {
+public class 행렬의_덧셈 {
     public static void main(String[] args) {
         int[][] arr1 = new int[][] {{1,2},{2,3}};
         int[][] arr2 = new int[][] {{3,4},{5,6}};

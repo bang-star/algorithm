@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 직사각형 별찍기
@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Exam01 {
+public class 직사각형_별찍기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();

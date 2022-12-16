@@ -8,9 +8,6 @@ package day3;
  *  point : 4
  * */
 
-import java.util.Arrays;
-import java.util.Comparator;
-
 public class Exam25 {
     public static void main(String[] args) {
         long start = System.nanoTime();

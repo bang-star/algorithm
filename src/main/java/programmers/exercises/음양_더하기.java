@@ -1,4 +1,4 @@
-package day2;
+package programmers.exercises;
 
 /*
  *  문제 : 음양 더하기
@@ -6,7 +6,7 @@ package day2;
  *  Date : 2022-05-14
  * */
 
-public class Exam07 {
+public class 음양_더하기 {
     public static void main(String[] args) {
         int arr1[] = {4,7,12};
         boolean arr2[] = {true,false,true};

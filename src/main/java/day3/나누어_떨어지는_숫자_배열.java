@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Exam14 {
+public class 나누어_떨어지는_숫자_배열 {
     public static void main(String[] args) {
         int[] arr = {5, 9, 7, 10};
         int divisor = 5;

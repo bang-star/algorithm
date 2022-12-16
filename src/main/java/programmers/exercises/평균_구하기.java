@@ -1,11 +1,11 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 평균 구하기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12944
  * */
 
-public class Exam08 {
+public class 평균_구하기 {
     public static void main(String[] args) {
         int arr1[] = {4,7,12};
         System.out.println(solution(arr1));

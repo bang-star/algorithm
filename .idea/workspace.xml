@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="239b0ab8-762a-4b50-adfc-bc0bdc1ff0d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day6/Exam45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first/Exam06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/직사각형_별찍기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/짝수와홀수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/가운데_글자_가져오기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/두_정수_사이의_합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/문자열을_정수로_바꾸기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/없는_숫자_더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/평균_구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/핸드폰_번호_가리기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/행렬의_덧셈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/x만큼_간격이_있는_n개의_숫자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exam12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/부족한_금액_계산하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/음양_더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/문제명_2016년.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Exam14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/exercises/나누어_떨어지는_숫자_배열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/나누어_떨어지는_숫자_배열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Exam25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Exam25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day6/Exam48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day6/Exam48.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +40,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,33 +77,37 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam45.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam44.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam43.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam31.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam39.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam48.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam47.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam38.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day5/Exam39.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam43.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam44.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam45.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam46.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam47.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/day6/Exam48.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="298Vz9Ag2U3wh7EPgPhYkMRuDDA" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Self-Study/TIL/algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Self스터디\Spart Class\team_project\2_week\algorithm\src\main\java\day4" />
@@ -76,20 +118,7 @@
       <recent name="day4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Exam45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day6.Exam45" />
-      <module name="algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.직사각형_별찍기">
     <configuration name="Exam46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day6.Exam46" />
       <module name="algorithm.main" />
@@ -142,13 +171,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="직사각형_별찍기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.exercises.직사각형_별찍기" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.직사각형_별찍기" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exam48" />
         <item itemvalue="Application.Exam47" />
         <item itemvalue="Application.Exam46" />
-        <item itemvalue="Application.Exam45" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +214,7 @@
       <workItem from="1652939968168" duration="1905000" />
       <workItem from="1652947683578" duration="68000" />
       <workItem from="1653021112891" duration="16000" />
+      <workItem from="1671175002211" duration="742000" />
     </task>
     <servers />
   </component>
@@ -188,6 +231,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

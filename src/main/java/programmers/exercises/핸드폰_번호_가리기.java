@@ -1,11 +1,11 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 핸드폰 번호 가리기
  *  URL : https://programmers.co.kr/learn/courses/30/lessons/12948
  * */
 
-public class Exam09 {
+public class 핸드폰_번호_가리기 {
     public static void main(String[] args) {
         System.out.println(solution("01033334444"));
     }

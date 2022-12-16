@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 가운데 글자 가져오기
@@ -7,7 +7,7 @@ package day1;
  *  Point : 1
  * */
 
-public class Exam03 {
+public class 가운데_글자_가져오기 {
     public static void main(String[] args) {
         System.out.println(solution("abcde"));
         System.out.println(solution("qwer"));

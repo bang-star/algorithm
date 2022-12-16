@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 짝수와 홀수
@@ -7,7 +7,7 @@ package day1;
  *  Point : 5
  * */
 
-public class Exam02 {
+public class 짝수와홀수 {
     public static void main(String[] args) {
         System.out.println(solution(3));
     }

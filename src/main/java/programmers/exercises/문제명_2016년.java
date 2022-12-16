@@ -1,4 +1,4 @@
-package day2;
+package programmers.exercises;
 
 /*
  *  문제 : 2016년
@@ -9,7 +9,7 @@ package day2;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class Exam13 {
+public class 문제명_2016년 {
     public static void main(String[] args) {
         System.out.println(solution(5, 24));
     }

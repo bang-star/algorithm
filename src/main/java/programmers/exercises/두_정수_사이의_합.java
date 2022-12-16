@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 두 정수 사이의 합
@@ -7,7 +7,7 @@ package day1;
  *  Point : 2
  * */
 
-public class Exam04 {
+public class 두_정수_사이의_합 {
     public static void main(String[] args) {
         System.out.println(solution(3, 5));
         System.out.println(solution(3, 3));

@@ -1,4 +1,4 @@
-package day1;
+package programmers.exercises;
 
 /*
  *  문제 : 문자열을 정수로 바꾸기
@@ -7,7 +7,7 @@ package day1;
  *  Point : 1
  * */
 
-public class Exam05 {
+public class 문자열을_정수로_바꾸기 {
     public static void main(String[] args) {
         System.out.println(solution("1234"));
         System.out.println(solution("+1234"));
